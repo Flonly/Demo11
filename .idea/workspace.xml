@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e098a2c-098c-487a-a364-bf3006eba98b" name="Default Changelist" comment="" />
+    <list default="true" id="1e098a2c-098c-487a-a364-bf3006eba98b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloworld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloworld/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b4GoAXcUZ4RCYoYMrke7hVeYXM" />
@@ -61,21 +76,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587884124416</updated>
-      <workItem from="1587884586275" duration="47000" />
+      <workItem from="1587884586275" duration="576000" />
     </task>
+    <task id="LOCAL-00001" summary="I am the change.">
+      <created>1587884771039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587884771039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I am the change." />
+    <option name="LAST_COMMIT_MESSAGE" value="I am the change." />
   </component>
   <component name="WindowStateProjectService">
     <state x="276" y="24" key="#Project_Structure" timestamp="1587884632454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="276" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587884632454" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1587884769482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587884769482" />
     <state x="464" y="107" key="FileChooserDialogImpl" timestamp="1587884263012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="464" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587884263012" />
+    <state x="276" y="99" key="Vcs.Push.Dialog.v2" timestamp="1587885331850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="276" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1587885331850" />
   </component>
 </project>
